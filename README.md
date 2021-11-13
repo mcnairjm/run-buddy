@@ -1,4 +1,4 @@
-# run-buddy
+# Run Buddy Inc.
 
 ## Purpose
 A website that offers fitness training services.
@@ -12,3 +12,4 @@ https://mcnairjm.github.io/run-buddy
 
 ## Contribution
 Made with <3 by John McNair
+
